@@ -1,4 +1,4 @@
-# python-lessons
+# data-lessons
 A place to host our beginner code as we learn
 
 ## Developer Guide
